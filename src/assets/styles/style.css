@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap");
+
+body {
+  font-family: "Ubuntu", sans-serif;
+  line-height: 1.6;
+  background: #b6e6bd;
+}
+.container {
+  max-width: 1000px;
+  margin: auto;
+  overflow: auto;
+  padding: 0 2rem;
+}
