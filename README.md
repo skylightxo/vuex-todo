@@ -1,5 +1,8 @@
 # Vuex Todo Manager
 
+Techonologies Used:
+Vue, Vuex, Vue Styled Components
+
 ## Project setup
 
 ```
@@ -16,5 +19,4 @@ npm run dev
 
 ```
 npm run build
-``
 ```
